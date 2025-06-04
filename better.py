@@ -310,3 +310,15 @@ parse2(results_rent['listResults'])
 # f = open("./jsondata_rent.json", "w")
 # f.write(jsondata_rent)
 # f.close()
+
+# only match ....
+# Listing ID: 20867583
+# Status: Room for rent
+# Price: $2,100
+# UnformattedPrice: 2100
+# Address: 355 S Madison Ave UNIT 120, Pasadena, CA 91101
+# Beds: 1, Baths: 1.0, Area: 922 sqft
+# LOC: (-118.13874,34.13948)
+# Nearest transit: 0.45 miles
+# Station: Fillmore (Pasadena)
+# Details URL: https://www.zillow.com/homedetails/355-S-Madison-Ave-UNIT-120-Pasadena-CA-91101/20867583_zpid/
